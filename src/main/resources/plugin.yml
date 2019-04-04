@@ -1,0 +1,3 @@
+name: GenericEventListenerPlugin
+version: 1.0
+main: rocks.isor.genericeventlistener.genericeventlistener.GenericEventListenerPlugin
